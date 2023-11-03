@@ -1,5 +1,5 @@
 ### Hi, I'm Afif Rohul Abrori 👋
-21 years old under graduate college student👨‍🎓 who has an interest in WEB DESIGN and WEB DEVELOPMENT👨‍💻
+21 years old under graduate college student👨‍🎓 who has an interest in WEB DEVELOPMENT👨‍💻
 <hr>
 
 - Jember University | Departement of Computer Science | Informatics 🎓 <br/>
