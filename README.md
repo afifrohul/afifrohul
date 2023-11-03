@@ -3,7 +3,7 @@
 <hr>
 
 - Jember University | Departement of Computer Science | Informatics 🎓 <br/>
-- Part of <span><a href="https://www.instagram.com/hmifunej/">@hmifunej</a></span> as Head Sub Division of Technology 👨‍💻 
+- Part of <span><a href="https://www.instagram.com/hmifunej/">@hmifunej</a></span> as Head of Technology  Sub Division 👨‍💻 
 
 
 🚀 Some tools i have used and learned
