@@ -33,6 +33,8 @@ I am a Informatics college student with a passion in Web Development. I have ski
 
 ### Badges
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afifrohul&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="afifrohul" /></a> </p>
+
 <b>My GitHub Stats</b>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afifrohul&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="afifrohul" /></p>
