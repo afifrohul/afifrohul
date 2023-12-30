@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a Informatics college student with a passion in Web Development. I have skills in creating and designing databases using MySQL and creating backend servers using the Laravel framework. From past to present, I managed web-based software development projects required by my organization and learned about being collaborative to achieve project goals. I am looking for an opportunity to intern at a company to further enhance my experience and learn new skill from professionals.
+I am an Informatics college student with a passion in Web Development. I have skills in creating and designing databases using MySQL and creating backend servers using the Laravel framework. From past to present, I managed web-based software development projects required by my organization and learned about being collaborative to achieve project goals. I am looking for an opportunity to intern at a company to further enhance my experience and learn new skill from professionals.
 
 * 🌍  I'm based in Jember, Indonesia
 * 🖥️  See my portfolio at [MyPortfolio](http://drive.google.com/file/d/1vkj--NelbG6Taq3aWRxDcnjzoEzl_N0v/view?usp=drive_link)
