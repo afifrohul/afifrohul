@@ -4,15 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am an Informatics college student with a passion in Web Development.
+I am an Informatics graduate with a strong passion for Web Development. Skilled in developing robust fullstack systems with the Laravel framework. Over the years, I have consistently built and managed various web-based projects, demonstrating both technical expertise and collaborative teamwork. Currently seeking an opportunity to work in a professional environment to further sharpen my skills, contribute to impactful projects, and gain valuable industry experience.
 
 * 🌍  I'm based in Jember, Indonesia
-* 🖥️  See my portfolio at [MyPortfolio](http://drive.google.com/file/d/1vkj--NelbG6Taq3aWRxDcnjzoEzl_N0v/view?usp=drive_link)
+* 🖥️  See my portfolio at [MyPortfolio](https://afifrohul.vercel.app/)
 * ✉️  You can contact me at [afifmemyself22@gmail.com](mailto:afifmemyself22@gmail.com)
-* 🚀  I'm currently working on [HMIF UNEJ](http://www.instagram.com/hmifunej/)
 * 🧠  I'm learning Full Stack Web Developer
-* 🤝  I'm open to collaborating on other project in HMIF UNEJ
-* ⚡  I'm Head of Technology Sub Division in HMIF UNEJ
 
 ### Skills
 
