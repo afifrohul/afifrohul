@@ -22,7 +22,6 @@ I am an Informatics graduate with a strong passion for Web Development. Skilled 
 ### Socials
 
 <p align="left">
-<a href="https://twitter.com/afif__rohul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afif__rohul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/afifrohul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afifrohul" height="30" width="40" /></a>
 <a href="https://fb.com/afif.r.abrori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afif.r.abrori" height="30" width="40" /></a>
 <a href="https://instagram.com/afif.rohul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afif.rohul" height="30" width="40" /></a>
