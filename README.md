@@ -19,10 +19,7 @@
 
 ##### Github stats:
 
-![Afif's GitHub stats](https://github-readme-stats.vercel.app/api?username=afifrohul&show_icons=true&theme=tokyonight)
+![Afif's GitHub stats](https://github-readme-stats.vercel.app/api?username=afifrohul&show_icons=true&theme=swift)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afifrohul&layout=donut&theme=swift)](https://github.com/afifrohul/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afifrohul&theme=tokyonight)](https://github.com/afifrohul/github-readme-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afifrohul&layout=donut&theme=tokyonight)](https://github.com/afifrohul/github-readme-stats)
-
-![](https://nirzak-streak-stats.vercel.app/?user=afifrohul&theme=dark&hide_border=false&theme=tokyonight)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=afifrohul&theme=swift&hide_border=false)<br/>
