@@ -1,10 +1,10 @@
-<!-- ![GithubCover](image/github_cover.png) -->
+![GithubCover](image/github_cover.png)
+
 ###
 
 <img src="https://raw.githubusercontent.com/afifrohul/afifrohul/output/snake.svg" alt="Snake animation" />
 
 ###
-
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> Hey! Nice to see you.</h3>
 
@@ -16,16 +16,8 @@
 
 ##### Tech stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,vite,alpinejs,react,next,php,laravel,mysql,postgres,supabase,postman,vscode,git,github,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,npm,nodejs,vite,alpinejs,react,next,php,laravel,mysql,postgres,supabase,postman,vscode,git,github,nginx,netlify,vercel,figma,apple&theme=dark)](https://skillicons.dev)
 
 ##### Github stats:
 
-![Afif's GitHub stats](https://github-readme-stats.vercel.app/api?username=afifrohul&show_icons=true&theme=s)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afifrohul&layout=donut&theme=s)](https://github.com/afifrohul/github-readme-stats)
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=afifrohul&theme=s&hide_border=false)
-
-###
-
-<img src="https://raw.githubusercontent.com/afifrohul/afifrohul/output/snake.svg" alt="Snake animation" />
-
-###
+![Afif's GitHub stats](https://github-readme-stats.vercel.app/api?username=afifrohul&show_icons=true&theme=swift) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afifrohul&layout=donut&theme=swift)](https://github.com/afifrohul/github-readme-stats) ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=afifrohul&theme=swift&hide_border=false)
