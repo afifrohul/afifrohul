@@ -5,13 +5,13 @@
 <p>Welcome to my page! </br> I'm Afif, Website developer from <img src="https://cdn-icons-png.flaticon.com/128/11654/11654463.png" width="13"/> <b>Jember, Indonesia</b>
 
 ##### Socials:
-<p>
+<div>
 <a href="https://afifrohul.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 <a href="mailto:afifmemyself22@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://instagram.com/afif.rohul" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 <a href="https://www.linkedin.com/in/afifrohul" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
-</p>
+</div>
 
 ##### Tech stack:
 
@@ -19,7 +19,7 @@
 
 ##### Github stats:
 
-![Afif's GitHub stats](https://github-readme-stats.vercel.app/api?username=afifrohul&show_icons=true&theme=swift)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afifrohul&layout=donut&theme=swift)](https://github.com/afifrohul/github-readme-stats)
+![Afif's GitHub stats](https://github-readme-stats.vercel.app/api?username=afifrohul&show_icons=true&theme=s)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afifrohul&layout=donut&theme=s)](https://github.com/afifrohul/github-readme-stats)
 
-![](https://nirzak-streak-stats.vercel.app/?user=afifrohul&theme=swift&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=afifrohul&theme=s&hide_border=false)<br/>
