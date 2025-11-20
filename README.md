@@ -2,7 +2,7 @@
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> Hey! Nice to see you.</h3>
 
-<p>Welcome to my page! </br> I'm Afif, Website developer from <img src="https://cdn-icons-png.flaticon.com/128/11654/11654463.png" width="13"/> <b>Jember, Indonesia</b>
+<p>Welcome to my page! </br> I'm Afif, Website Developer from <img src="https://cdn-icons-png.flaticon.com/128/11654/11654463.png" width="13"/> <b>Jember, Indonesia</b></p>
 
 ##### Socials:
 
@@ -14,7 +14,12 @@
 
 ##### Github stats:
 
-<!-- ![Afif's GitHub stats](https://github-readme-stats.vercel.app/api?username=afifrohul&show_icons=true&theme=s)
+![Afif's GitHub stats](https://github-readme-stats.vercel.app/api?username=afifrohul&show_icons=true&theme=s)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afifrohul&layout=donut&theme=s)](https://github.com/afifrohul/github-readme-stats)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=afifrohul&theme=s&hide_border=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=afifrohul&theme=s&hide_border=false) -->
+###
+
+<img src="https://raw.githubusercontent.com/afifrohul/afifrohul/output/snake.svg" alt="Snake animation" />
+
+###
