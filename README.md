@@ -1,8 +1,14 @@
-![GithubCover](image/github_cover.png)
+<!-- ![GithubCover](image/github_cover.png) -->
+###
+
+<img src="https://raw.githubusercontent.com/afifrohul/afifrohul/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> Hey! Nice to see you.</h3>
 
-<p>Welcome to my page! </br> I'm Afif, Website Developer from <img src="https://cdn-icons-png.flaticon.com/128/11654/11654463.png" width="13"/> <b>Jember, Indonesia</b></p>
+<p>Welcome to my page! </br> I'm Afif Rohul Abrori, Website Developer from <img src="https://cdn-icons-png.flaticon.com/128/11654/11654463.png" width="13"/> <b>Jember, Indonesia</b></p>
 
 ##### Socials:
 
