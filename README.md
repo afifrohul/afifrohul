@@ -8,7 +8,7 @@
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> Hey! Nice to see you.</h3>
 
-<p>Welcome to my page! </br> I'm Afif Rohul Abrori, <i>website developer</i> from <img src="https://cdn-icons-png.flaticon.com/128/11654/11654463.png" width="13"/> <b>Jember, Indonesia</b></p>
+<p>Welcome to my page! </br> I'm Afif Rohul Abrori, <i>web dev</i> from <img src="https://cdn-icons-png.flaticon.com/128/11654/11654463.png" width="13"/> <b>Jember, Indonesia</b></p>
 
 #### 📱 Contact:
 
