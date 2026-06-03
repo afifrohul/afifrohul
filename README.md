@@ -10,7 +10,7 @@
 
 <p>Welcome to my profile page! </br> I'm Afif Rohul Abrori, <i>web dev</i> from <img src="https://cdn-icons-png.flaticon.com/128/11654/11654463.png" width="13"/> <b>Jember, Indonesia</b></p>
 
-#### 📱 Contact:
+#### 📱 Contacts:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?logo=About.me&logoColor=white)](https://afifrohul.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afifmemyself22@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/afif.rohul) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/afifrohul)
 
